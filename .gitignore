@@ -1,0 +1,16 @@
+# Docker stuff
+*.log
+*.pid
+*.sock
+
+# Maven / Gradle / Node / Python
+target/
+node_modules/
+__pycache__/
+.env
+
+# OS files
+.DS_Store
+
+# Docker volumes
+volumes/
